@@ -1,103 +1,212 @@
+
+<!-- ===================== HEADER ===================== -->
+
 <div align="center">
 
-# ¡Hola, soy Josue! 👋 
-### Un apasionado entusiasta de la tecnología desde Perú 🇵🇪
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:6A0DAD,100:00BFFF&height=230&section=header&text=JOSUE&fontSize=75&fontColor=FFFFFF&animation=fadeIn&fontAlignY=36&desc=Software%20Development%20%7C%20Technology%20Enthusiast&descAlignY=58" alt="Header"/>
 
-[![Web Technologies](https://img.shields.io/badge/Software-Development-blue?style=flat-square&logo=codeforces)](https://github.com/josueandres992-png)
-[![Databases](https://img.shields.io/badge/Databases-PostgreSQL%20%2F%20MySQL-green?style=flat-square&logo=postgresql)](https://github.com/josueandres992-png)
-[![Status](https://img.shields.io/badge/Status-Always%20Learning-orange?style=flat-square&logo=rocket)](https://github.com/josueandres992-png)
+<h1>Hi there! 👋 I'm Josue</h1>
+
+<h3>💻 Software Development | Web Technologies | Databases</h3>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=00BFFF&center=true&vCenter=true&width=650&lines=Welcome+to+my+GitHub+Profile!;Passionate+about+Software+Development;Frontend+%26+Backend+Enthusiast;Always+Learning+New+Technologies;Code.+Learn.+Build.+Repeat." alt="Typing Animation"/>
+
+<br><br>
+
+<img src="https://komarev.com/ghpvc/?username=josueandres992-png&label=Profile+Views&color=blueviolet&style=for-the-badge" alt="Profile views"/>
+
+<img src="https://img.shields.io/github/followers/josueandres992-png?style=for-the-badge&color=00BFFF&labelColor=0D1117" alt="Followers"/>
 
 </div>
 
----
+<!-- ===================== ABOUT ME ===================== -->
 
-### 👨‍💻 Sobre mí
+<h2>👨‍💻 About Me</h2>
 
-- 🌱 Actualmente me apasiona el **Desarrollo de Software, Tecnologías Web y Bases de Datos**.
-- 🚀 Disfruto explorando diferentes lenguajes de programación, construyendo proyectos y descubriendo nuevas tecnologías.
-- 🎯 Mi objetivo es convertirme en un mejor desarrollador y crear soluciones innovadoras a través de la tecnología.
+<img align="right" height="150" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExOGVjOHNidGQ4aHM1MnMzNnQzZW14bGp1YWtyaHh4aDk5ZHh5YmxoayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/sTzAXLbAnZ5NvpHd6m/giphy.gif" alt="Anime GIF"/>
 
-> **⚡ Code. Learn. Build. Repeat.**
+```javascript
+const josue = {
+    location: "Peru 🇵🇪",
+    role: "Technology Enthusiast",
+    interests: [
+        "Software Development",
+        "Web Development",
+        "Databases",
+        "Cloud Computing",
+        "Automation"
+    ],
+    currentlyLearning: [
+        "Full Stack Development",
+        "Backend Technologies",
+        "DevOps"
+    ],
+    motto: "Code. Learn. Build. Repeat."
+};
+```
 
----
+- 🚀 Passionate about technology and innovation
+- 💻 Exploring frontend and backend development
+- 🗄️ Interested in databases and data management
+- 🐳 Learning more about Docker, Linux and Cloud
+- 📚 Improving my programming skills every day
+- 🎯 Working toward becoming a better developer
+- 🇵🇪 Based in Peru
 
-### 🛠️ Tecnologías y Herramientas
+<br clear="both">
+
+<!-- ===================== TECH STACK ===================== -->
+
+<h2 align="center">🛠️ Tech Stack & Tools</h2>
 
 <div align="center">
 
-| Categoría | Tecnologías |
-|:---:|:---|
-| **Lenguajes** | `C`, `C++`, `Python`, `Java`, `TypeScript` |
-| **Frontend & Web** | `React`, `Vue.js` |
-| **Backend & Base de Datos** | `Node.js`, `PostgreSQL`, `MySQL`, `Apache` |
-| **DevOps & Cloud** | `Docker`, `Linux`, `RedHat`, `AWS`, `Grafana` |
-| **Herramientas** | `Git`, `VS Code`, `Visual Studio`, `CMake` |
+<h3>💻 Programming Languages</h3>
+
+<img src="https://skillicons.dev/icons?i=python,typescript,js,java,c,cpp&theme=dark" alt="Programming languages"/>
+
+<h3>🌐 Frontend Development</h3>
+
+<img src="https://skillicons.dev/icons?i=html,css,react,vue&theme=dark" alt="Frontend"/>
+
+<h3>⚙️ Backend Development</h3>
+
+<img src="https://skillicons.dev/icons?i=nodejs,python,java&theme=dark" alt="Backend"/>
+
+<h3>🗄️ Databases</h3>
+
+<img src="https://skillicons.dev/icons?i=mysql,postgres&theme=dark" alt="Databases"/>
+
+<h3>☁️ Cloud & DevOps</h3>
+
+<img src="https://skillicons.dev/icons?i=aws,docker,linux,redhat&theme=dark" alt="Cloud and DevOps"/>
+
+<h3>🔧 Development Tools</h3>
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio,cmake,grafana&theme=dark" alt="Development tools"/>
+
+<br><br>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" height="42" alt="Apache"/>
 
 </div>
 
-<br>
+<!-- ===================== GITHUB STATS ===================== -->
 
-<!-- Iconos flotantes organizados -->
+<h2 align="center">📊 GitHub Statistics</h2>
+
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30" alt="c logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cmake/cmake-original.svg" height="30" alt="cmake logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" alt="cplusplus logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="30" alt="docker logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" alt="vscode logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" height="30" alt="visualstudio logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="30" alt="vuejs logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redhat/redhat-original.svg" height="30" alt="redhat logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="30" alt="postgresql logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="nodejs logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="30" alt="linux logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original.svg" height="30" alt="grafana logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-line-wordmark.svg" height="30" alt="amazonwebservices logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" height="30" alt="apache logo" />
+
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=josueandres992-png&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" alt="GitHub Stats"/>
+
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=josueandres992-png&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages"/>
+
+<br><br>
+
+<img src="https://streak-stats.demolab.com?user=josueandres992-png&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+
 </div>
 
----
+<!-- ===================== ACTIVITY GRAPH ===================== -->
 
-### 📊 Estadísticas de GitHub
+<h2 align="center">📈 Contribution Activity</h2>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/josueandres992-png/josueandres992-png/stats-output/stats.svg?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph" />
-  <img src="https://raw.githubusercontent.com/josueandres992-png/josueandres992-png/languages-output/languages.svg?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph" />
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=josueandres992-png&theme=tokyo-night&hide_border=true&area=true" width="95%" alt="Contribution Activity"/>
+
 </div>
 
----
+<!-- ===================== TROPHIES ===================== -->
 
-### 🌐 Conectemos
+<h2 align="center">🏆 GitHub Achievements</h2>
 
 <div align="center">
 
-<!-- Recuerda cambiar las '#' por los enlaces reales a tus perfiles -->
-<a href="https://linkedin.com/in/tu-usuario" target="_blank">
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo" />
+<img src="https://github-profile-trophy.vercel.app/?username=josueandres992-png&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=1&column=6" alt="GitHub Trophies"/>
+
+</div>
+
+<!-- ===================== PROJECTS ===================== -->
+
+<h2 align="center">🚀 My Projects</h2>
+
+<div align="center">
+
+<p>
+I'm continuously learning, experimenting and building new projects.
+</p>
+
+<p>
+Explore my repositories to discover what I've been working on.
+</p>
+
+<a href="https://github.com/josueandres992-png?tab=repositories">
+<img src="https://img.shields.io/badge/Explore_My_Projects-181717?style=for-the-badge&logo=github&logoColor=white" alt="Repositories"/>
 </a>
-<a href="https://instagram.com/tu-usuario" target="_blank">
-  <img src="
+
+</div>
+
+<!-- ===================== SOCIALS ===================== -->
+
+<h2 align="center">🌐 Connect With Me</h2>
+
+<div align="center">
+
+<a href="https://github.com/josueandres992-png">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+</a>
+
+<!-- Reemplaza # por los enlaces de tus redes sociales -->
+
+<a href="#">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+
+<a href="#">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+</a>
+
+<a href="#">
+<img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
+</a>
+
+<a href="#">
+<img src="https://img.shields.io/badge/Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify"/>
+</a>
+
+<a href="#">
+<img src="https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white" alt="GitLab"/>
+</a>
+
+</div>
+
+<!-- ===================== SNAKE ===================== -->
+
+<h2 align="center">🐍 Contribution Snake</h2>
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/josueandres992-png/josueandres992-png/snake-output/snake.svg" alt="Snake Animation"/>
+
+</div>
+
+<!-- ===================== QUOTE ===================== -->
+
+<h2 align="center">💡 Developer Mindset</h2>
+
+<div align="center">
+
+<i>"Great things are built one line of code at a time."</i>
+
+<br><br>
+
+<h3>⚡ Code. Learn. Build. Repeat.</h3>
+
+<strong>Thanks for visiting my profile! 🚀</strong>
+
+</div>
+
+<!-- ===================== FOOTER ===================== -->
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:6A0DAD,100:00BFFF&height=120&section=footer" alt="Footer"/>
