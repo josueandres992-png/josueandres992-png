@@ -77,10 +77,6 @@ const developer = {
 
 <h2 align="center">「 ARSENAL OF CODE 」</h2>
 
-<div align="center">
-
-<sub>The tools I use to build things in the darkness.</sub>
-
 <br><br>
 
 <h3>⌨️ Programming Languages</h3>
