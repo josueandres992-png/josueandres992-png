@@ -3,11 +3,8 @@
 <h3>💻 Software Development | Web Technologies | Databases</h3>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=00BFFF&center=true&vCenter=true&width=650&lines=Welcome+to+my+GitHub+Profile!;Passionate+about+Software+Development;Frontend+%26+Backend+Enthusiast;Always+Learning+New+Technologies;Code.+Learn.+Build.+Repeat." alt="Typing Animation"/>
-
 <br><br>
-
 <img src="https://img.shields.io/github/followers/josueandres992-png?style=for-the-badge&color=00BFFF&labelColor=0D1117" alt="Followers"/>
-
 </div>
 
 <!-- ===================== ABOUT ME ===================== -->
