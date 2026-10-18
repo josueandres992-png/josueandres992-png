@@ -173,19 +173,7 @@ Explore my repositories to discover what I've been working on.
 
 </div>
 
-<!-- ===================== QUOTE ===================== -->
 
-<h2 align="center">💡 Developer Mindset</h2>
-
-<div align="center">
-
-<i>"Great things are built one line of code at a time."</i>
-
-<br><br>
-
-<h3>⚡ Code. Learn. Build. Repeat.</h3>
-
-<strong>Thanks for visiting my profile! 🚀</strong>
 
 </div>
 
