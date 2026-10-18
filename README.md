@@ -1,105 +1,74 @@
-<div align="center">
+<h2 data-importer="text" align="left"># Hi 👋! I'm Josue, a passionate technology enthusiast from Peru 🇵🇪<br><br> I'm passionate about **Software Development, Web Technologies, and Databases**.<br><br> I enjoy exploring different programming languages, building projects, and discovering new technologies.<br><br>Always learning, improving my skills, and taking on new challenges.<br><br> My goal is to become a better developer and create innovative solutions through technology.<br><br>⚡ **Code. Learn. Build. Repeat.**</h2>
 
-# ¡Hola, soy Josue! 👋 
-### Un apasionado entusiasta de la tecnología desde Perú 🇵🇪
+###
 
-[![Web Technologies](https://img.shields.io/badge/Software-Development-blue?style=flat-square&logo=codeforces)](https://github.com/josueandres992-png)
-[![Databases](https://img.shields.io/badge/Databases-PostgreSQL%20%2F%20MySQL-green?style=flat-square&logo=postgresql)](https://github.com/josueandres992-png)
-[![Learning](https://img.shields.io/badge/Status-Always%20Learning-orange?style=flat-square&logo=rocket)](https://github.com/josueandres992-png)
-
+<div data-importer="stats" align="center">
+  <img src="https://raw.githubusercontent.com/josueandres992-png/josueandres992-png/stats-output/stats.svg?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://raw.githubusercontent.com/josueandres992-png/josueandres992-png/languages-output/languages.svg?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
----
+###
 
-### 👨‍💻 Sobre mí
+<img data-importer="image" align="right" height="120" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExOGVjOHNidGQ4aHM1MnMzNnQzZW14bGp1YWtyaHh4aDk5ZHh5YmxoayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/sTzAXLbAnZ5NvpHd6m/giphy.gif"  />
 
-- 🌱 Actualmente me apasiona el **Desarrollo de Software, Tecnologías Web y Bases de Datos**.
-- 🚀 Disfruto explorando diferentes lenguajes de programación, construyendo proyectos y descubriendo nuevas tecnologías.
-- 🎯 Mi objetivo es convertirme en un mejor desarrollador y crear soluciones innovadoras a través de la tecnología.
+###
 
-> **⚡ Code. Learn. Build. Repeat.**
-
----
-
-### 🛠️ Tecnologías y Herramientas
-
-<div align="center">
-
-| Categoría | Tecnologías |
-|:---:|:---|
-| **Lenguajes** | `C`, `C++`, `Python`, `Java`, `TypeScript` |
-| **Frontend & Web** | `React`, `Vue.js` |
-| **Backend & Base de Datos** | `Node.js`, `PostgreSQL`, `MySQL`, `Apache` |
-| **DevOps & Cloud** | `Docker`, `Linux`, `RedHat`, `AWS`, `Grafana` |
-| **Herramientas** | `Git`, `VS Code`, `Visual Studio`, `CMake` |
-
+<div data-importer="techs" align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30" alt="c logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cmake/cmake-original.svg" height="30" alt="cmake logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" alt="cplusplus logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="30" alt="docker logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" alt="vscode logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" height="30" alt="visualstudio logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="30" alt="vuejs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redhat/redhat-original.svg" height="30" alt="redhat logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="30" alt="postgresql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="nodejs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="30" alt="linux logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original.svg" height="30" alt="grafana logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-line-wordmark.svg" height="30" alt="amazonwebservices logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" height="30" alt="apache logo"  />
 </div>
 
-<br>
+###
 
-<!-- O si prefieres mantener los iconos flotantes originales, aquí los tienes limpios -->
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" alt="c++" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="30" alt="docker" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="30" alt="postgresql" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="nodejs" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="30" alt="linux" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-line-wordmark.svg" height="30" alt="aws" />
+<div data-importer="socials" align="center">
+  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
+  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+  <img src="https://img.shields.io/static/v1?message=Spotify&logo=spotify&label=&color=000000&logoColor=1DB954&labelColor=&style=for-the-badge" height="35" alt="spotify logo"  />
+  <img src="https://img.shields.io/static/v1?message=GitLab&logo=gitlab&label=&color=FC6D26&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gitlab logo"  />
 </div>
 
----
-
-### 📊 Estadísticas de GitHub
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/josueandres992-png/josueandres992-png/stats-output/stats.svg?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph" />
-  <img src="https://raw.githubusercontent.com/josueandres992-png/josueandres992-png/languages-output/languages.svg?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph" />
-</div>
-
----
-
-### 🌐 Conectemos
-
-<div align="center">
-
-<!-- Reemplaza '#' por los enlaces reales a tus perfiles -->
-<a href="https://linkedin.com/in/tu-usuario" target="_blank">
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="LinkedIn" />
-</a>
-<a href="https://instagram.com/tu-usuario" target="_blank">
-  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Instagram" />
-</a>
-<a href="https://gitlab.com/tu-usuario" target="_blank">
-  <img src="https://img.shields.io/static/v1?message=GitLab&logo=gitlab&label=&color=FC6D26&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="GitLab" />
-</a>
-<a href="https://discord.com/users/tu-id" target="_blank">
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Discord" />
-</a>
-<a href="https://open.spotify.com/user/tu-id" target="_blank">
-  <img src="https://img.shields.io/static/v1?message=Spotify&logo=spotify&label=&color=000000&logoColor=1DB954&labelColor=&style=for-the-badge" height="35" alt="Spotify" />
-</a>
-
-</div>
-
----
+###
 
 <br clear="both">
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/josueandres992-png/josueandres992-png/snake-output/snake.svg" alt="Snake animation" />
-</div>
+<img data-importer="snake" src="https://raw.githubusercontent.com/josueandres992-png/josueandres992-png/snake-output/snake.svg" alt="Snake animation" />
+
+###
