@@ -1,10 +1,3 @@
-
-<!-- ===================== HEADER ===================== -->
-
-<div align="center">
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:6A0DAD,100:00BFFF&height=230&section=header&text=JOSUE&fontSize=75&fontColor=FFFFFF&animation=fadeIn&fontAlignY=36&desc=Software%20Development%20%7C%20Technology%20Enthusiast&descAlignY=58" alt="Header"/>
-
 <h1>Hi there! 👋 I'm Josue</h1>
 
 <h3>💻 Software Development | Web Technologies | Databases</h3>
