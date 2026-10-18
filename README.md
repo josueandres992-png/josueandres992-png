@@ -107,25 +107,7 @@ const josue = {
 
 </div>
 
-<!-- ===================== ACTIVITY GRAPH ===================== -->
 
-<h2 align="center">📈 Contribution Activity</h2>
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=josueandres992-png&theme=tokyo-night&hide_border=true&area=true" width="95%" alt="Contribution Activity"/>
-
-</div>
-
-<!-- ===================== TROPHIES ===================== -->
-
-<h2 align="center">🏆 GitHub Achievements</h2>
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=josueandres992-png&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=1&column=6" alt="GitHub Trophies"/>
-
-</div>
 
 <!-- ===================== PROJECTS ===================== -->
 
