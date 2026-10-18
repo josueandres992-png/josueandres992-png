@@ -77,6 +77,8 @@ const developer = {
 
 <h2 align="center">「 ARSENAL OF CODE 」</h2>
 
+<div align="center">
+
 <br><br>
 
 <h3>⌨️ Programming Languages</h3>
@@ -129,8 +131,6 @@ const developer = {
 
 <div align="center">
 
-<sub>A quiet record of every line written.</sub>
-
 <br><br>
 
 <img height="175" src="https://github-readme-stats.vercel.app/api?username=josueandres992-png&show_icons=true&theme=dark&bg_color=0D0D12&title_color=A85868&text_color=ADADB6&icon_color=862D40&border_color=29232B&hide_border=false&include_all_commits=true" alt="GitHub Statistics"/>
@@ -144,48 +144,6 @@ const developer = {
 </div>
 
 <br>
-
-<!-- ================= ACTIVITY ================= -->
-
-<h2 align="center">「 ACTIVITY IN THE SHADOWS 」</h2>
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=josueandres992-png&bg_color=0D0D12&color=A85868&line=862D40&point=D0A0A8&area_color=40151F&area=true&hide_border=true" width="100%" alt="Activity graph"/>
-
-</div>
-
-<br>
-
----
-
-<!-- ================= PROJECTS ================= -->
-
-<h2 align="center">「 PROJECT ARCHIVE 」</h2>
-
-<div align="center">
-
-<sub>Fragments of ideas turned into reality.</sub>
-
-<br><br>
-
-<p>
-Every project is another step forward.<br>
-Every mistake is another lesson learned.<br>
-Every line of code tells a story.
-</p>
-
-<br>
-
-<a href="https://github.com/josueandres992-png?tab=repositories">
-<img src="https://img.shields.io/badge/EXPLORE_MY_REPOSITORIES-111115?style=for-the-badge&logo=github&logoColor=D0D0D0&labelColor=481925" alt="Explore repositories"/>
-</a>
-
-</div>
-
-<br>
-
----
 
 <!-- ================= CONNECT ================= -->
 
@@ -228,39 +186,6 @@ Every line of code tells a story.
 <br>
 
 ---
-
-<!-- ================= SNAKE ================= -->
-
-<h2 align="center">「 THE SNAKE IN THE DARK 」</h2>
-
-<div align="center">
-
-<sub>Even the smallest contributions leave a trace.</sub>
-
-<br><br>
-
-<picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/josueandres992-png/josueandres992-png/snake-output/snake.svg"
-  />
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/josueandres992-png/josueandres992-png/snake-output/snake-light.svg"
-  />
-  <img
-    src="https://raw.githubusercontent.com/josueandres992-png/josueandres992-png/snake-output/snake.svg"
-    width="100%"
-    alt="Contribution Snake"
-  />
-</picture>
-
-</div>
-
-<br>
-
----
-
 <!-- ================= END ================= -->
 
 <div align="center">
@@ -275,9 +200,6 @@ Every line of code tells a story.
 
 <br>
 
-<img src="https://komarev.com/ghpvc/?username=josueandres992-png&style=flat-square&color=481925&label=VISITORS" alt="Visitors"/>
-
-<br><br>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:050505,50:151019,100:40151F" alt="Footer"/>
 
