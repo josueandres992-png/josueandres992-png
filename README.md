@@ -6,8 +6,6 @@
 
 <br><br>
 
-<img src="https://komarev.com/ghpvc/?username=josueandres992-png&label=Profile+Views&color=blueviolet&style=for-the-badge" alt="Profile views"/>
-
 <img src="https://img.shields.io/github/followers/josueandres992-png?style=for-the-badge&color=00BFFF&labelColor=0D1117" alt="Followers"/>
 
 </div>
