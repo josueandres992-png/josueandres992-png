@@ -5,7 +5,7 @@
 
 [![Web Technologies](https://img.shields.io/badge/Software-Development-blue?style=flat-square&logo=codeforces)](https://github.com/josueandres992-png)
 [![Databases](https://img.shields.io/badge/Databases-PostgreSQL%20%2F%20MySQL-green?style=flat-square&logo=postgresql)](https://github.com/josueandres992-png)
-[![Learning](https://img.shields.io/badge/Status-Always%20Learning-orange?style=flat-square&logo=rocket)](https://github.com/josueandres992-png)
+[![Status](https://img.shields.io/badge/Status-Always%20Learning-orange?style=flat-square&logo=rocket)](https://github.com/josueandres992-png)
 
 </div>
 
@@ -37,7 +37,7 @@
 
 <br>
 
-<!-- Tus iconos originales flotantes -->
+<!-- Iconos flotantes organizados -->
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo" />
   <img width="12" />
@@ -95,29 +95,9 @@
 
 <div align="center">
 
-<!-- ¡Aquí puedes colocar los enlaces reales de tus redes dentro de href="#"! -->
+<!-- Recuerda cambiar las '#' por los enlaces reales a tus perfiles -->
 <a href="https://linkedin.com/in/tu-usuario" target="_blank">
   <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo" />
 </a>
 <a href="https://instagram.com/tu-usuario" target="_blank">
-  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo" />
-</a>
-<a href="https://gitlab.com/tu-usuario" target="_blank">
-  <img src="https://img.shields.io/static/v1?message=GitLab&logo=gitlab&label=&color=FC6D26&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gitlab logo" />
-</a>
-<a href="https://discord.com/users/tu-id" target="_blank">
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo" />
-</a>
-<a href="https://open.spotify.com/user/tu-id" target="_blank">
-  <img src="https://img.shields.io/static/v1?message=Spotify&logo=spotify&label=&color=000000&logoColor=1DB954&labelColor=&style=for-the-badge" height="35" alt="spotify logo" />
-</a>
-
-</div>
-
----
-
-<!-- TU GIF ORIGINAL CONSERVADO -->
-<br clear="both">
-
-<div align="center">
-  <img data-importer="image" height="12
+  <img src="
